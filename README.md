@@ -12,3 +12,11 @@ sudo apt-get install postgresql-9.6
 sudo apt-get install postgresql-9.6-postgis-2.3 postgresql-contrib-9.6
 sudo apt-get install postgis
 ```
+4.	Check commit log
+git log
+
+5.	Check status
+git status
+
+6.	Push changes
+git push origin master
